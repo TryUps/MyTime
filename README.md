@@ -1,6 +1,6 @@
 # MyTime
 
-![Alt](/mytime.png "Meu Time")
+![Aplicativo Meu Tempo](/mytime.png "Meu Tempo")
 
 Aplicativo de produtividade, com diversas funcionálidades exclusivas.
 
