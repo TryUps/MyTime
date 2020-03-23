@@ -10,6 +10,6 @@ Aplicativo de produtividade, com diversas funcionálidades exclusivas.
 * Notificações interativas, para não perder nenhum momento da sua vida, esteja sempre ligado.
 * Crie anotações.
 
-[Aplicativo Desktop Meu Tempo](https://www.github.com/TryUps/MyTime-Desktop) for Windows and Mac.
+[Aplicativo Desktop Meu Tempo](https://www.github.com/TryUps/MyTime-Desktop "Repositório Aplicativo Desktop") for Windows and Mac.
 
-[Aplicativo Móvel Meu Tempo](https://www.github.com/TryUps/MyTime-Mobile) for Android and IOS.
+[Aplicativo Móvel Meu Tempo](https://www.github.com/TryUps/MyTime-Mobile "Repositório Aplicativo Móvel") for Android and IOS.
