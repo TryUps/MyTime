@@ -1,5 +1,7 @@
 # MyTime
 
+![Alt](/mytime.png "Meu Time")
+
 Aplicativo de produtividade, com diversas funcionálidades exclusivas.
 
 * Agendar horário diário de trabalho, com sub-horários para cada foco produtivo.
